@@ -5,4 +5,4 @@ Actively seeking opportunities in AI, Data Science, and ML. Experienced in web d
 ### Social media: 📡    
 Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
-[![X Badge](https://img.shields.io/twitter/follow/:Kartikkbishnoi)]([(https://x.com/Kartikkbishnoi)])
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kartikkbishnoi.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Kartikkbishnoi)
