@@ -6,12 +6,14 @@ Actively seeking opportunities in AI, Data Science, and ML. Experienced in web d
 Follow me on Twitter for data science insights, and a peek into the world of machine learning. Let's explore the possibilities together! 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kartikkbishnoi.svg?style=social&label=Follow%20%40Kartikkbishnoi)](https://twitter.com/Kartikkbishnoi)
 
+
 ### Languages and Tools
 
 #### Languages:
 | Python3 | JS | HTML | PHP | Java |
 |---------|----|------|-----|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="70" height="70"/> |
+
 
 ### Best frameworks and main libraries for Python3:
 
